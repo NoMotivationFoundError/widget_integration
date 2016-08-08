@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="incident_state" label="Incident state" language="en" table="x_21761_widget_int_widget_integration">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>incident_state</element>
+            <help/>
+            <hint/>
+            <label>Incident state</label>
+            <language>en</language>
+            <name>x_21761_widget_int_widget_integration</name>
+            <plural>Incident states</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-08-08 01:36:09</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>c1dafc26db0122008d355ec0cf9619e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Incident state</sys_name>
+            <sys_package display_value="Widget Integration" source="x_21761_widget_int">70aa7422db0122008d355ec0cf961974</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Widget Integration">70aa7422db0122008d355ec0cf961974</sys_scope>
+            <sys_update_name>sys_documentation_x_21761_widget_int_widget_integration_incident_state_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-08-08 01:36:09</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
